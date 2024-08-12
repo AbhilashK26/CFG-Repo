@@ -1,0 +1,44 @@
+/* Custom Styles */
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+}
+
+.about-section, .contact-section {
+    padding: 50px 0;
+}
+
+.testimonials-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.testimonial-card {
+    margin-top: 20px;
+    transition: transform 0.3s;
+}
+
+.testimonial-card:hover {
+    transform: scale(1.05);
+}
+
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+
+.nav-link:hover {
+    color: #007bff !important;
+}
