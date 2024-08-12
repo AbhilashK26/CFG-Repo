@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # CFG-Repo
-=======
 # Team-50
 # Joining the dots
 
@@ -34,4 +33,4 @@ cd your-repo-name
 npm install
 ##Start the React development server.
 npm start
->>>>>>> 8de1907 (Added all files)
+
